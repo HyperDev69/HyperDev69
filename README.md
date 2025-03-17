@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HyperDev69
+- 👋 Hi, I’m Hyper/hyperdev
 - 👀 I’m interested in BS servers
 - 🌱 I’m currently learning html and JavaScript
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me on tg @hyperd3v
+- 📫 tg @hyperd3v
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: pour
 
