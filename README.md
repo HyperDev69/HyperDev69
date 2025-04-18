@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hyper/hyperdev/hyperj
-- 👀 I’m interested in BS servers
-- 🌱 I’m currently learning html 
+- 👋 Hi, you can call me Hyper/hyperdev/hyperj
+- 👀 I’m interested in SC games servers
+- 🌱 I’m currently learning html
 - 📫 dm me on telegram: @hyperd3v
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: pour
+- 🐈 My fav animals are cats 
